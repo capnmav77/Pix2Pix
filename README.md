@@ -1,3 +1,3 @@
 # Pix2Pix
 
-work in prog don't you clone it!
+work in prog clone at your own risk pal!
